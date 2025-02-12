@@ -1,37 +1,18 @@
-👋 Hello, I'm Asif Abdul Kadar Abuthagir
-<a href="https://www.linkedin.com/in/asif-abdul-kadar-abuthagir-7abb58257/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> &nbsp; <a href="https://leetcode.com/u/AsifAbdulKadarA/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> </a>
-🎓 About Me
-I’m currently pursuing a B.Tech in Artificial Intelligence and Data Science at Dr. Mahalingam College of Engineering and Technology. I'm deeply passionate about Data Science, Machine Learning, and AI-driven solutions.
+# 💫 About Me:
+👋 Hello, I'm Asif Abdul Kadar Abuthagir LinkedIn   LeetCode 🎓 About Me I’m currently pursuing a B.Tech in Artificial Intelligence and Data Science at Dr. Mahalingam College of Engineering and Technology. I'm deeply passionate about Data Science, Machine Learning, and AI-driven solutions.
 
-🔥 My Interests
-Stock Market Analysis 📈 (Candle Chart Analysis, Trend Prediction)
-Customer Segmentation & Exploratory Data Analysis
-Artificial Intelligence & Data Science Applications
-Accessible Technology for Visually and Hearing-Impaired Students
-Psychometric & Activity-Based Career Guidance Systems
-🛠️ Skills
-👨‍💻 Programming Languages
-<p> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"> <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> </p>
-📊 Data Science & ML Tools
-<p> <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C.svg?logo=plotly&logoColor=white"> <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-1E88E5.svg?logo=plotly&logoColor=white"> </p>
-🗄️ Databases & Cloud
-<p> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"> </p>
-🔧 Development Tools
-<p> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> </p>
-🚀 Projects
-📊 Customer Segmentation using EDA
-Exploratory data analysis for customer behavior insights and segmentation using Python.
 
-🏦 Banking System (Java Project - In Progress)
-Bank Account Number Generator
-Bank Deposit Machine
-ATM System
-🔮 AI-Powered Career Guidance System
-Developing a tool that combines psychometric analysis & activity-based assessments to provide personalized career paths for students.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asif-abdul-kadar-abuthagir-7abb58257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:A.asifabdulkadar@gmail.com) 
 
-♿ Accessible EdTech for Visually & Hearing-Impaired Students
-Building an inclusive learning platform with sign language & visual aids to enhance accessibility.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asifabdulkadar&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asifabdulkadar&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifabdulkadar&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-📫 Let's Connect!
-💼 LinkedIn
-💻 LeetCode
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asifabdulkadar&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
