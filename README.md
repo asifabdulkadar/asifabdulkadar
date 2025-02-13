@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hello, I'm Asif Abdul Kadar Abuthagir LinkedIn   LeetCode 🎓 About Me I’m currently pursuing a B.Tech in Artificial Intelligence and Data Science at Dr. Mahalingam College of Engineering and Technology. I'm deeply passionate about Data Science, Machine Learning, and AI-driven solutions.
+# 💫 About Me:👋 Hello, I'm Asif Abdul Kadar Abuthagir
+ LinkedIn   LeetCode 
+🎓 About Me I’m currently pursuing a B.Tech in Artificial Intelligence and Data Science at Dr. Mahalingam College of Engineering and Technology.
+I'm deeply passionate about Data Science, Machine Learning, and AI-driven solutions.
 
 
 ## 🌐 Socials:
