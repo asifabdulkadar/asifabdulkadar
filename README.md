@@ -1,28 +1,37 @@
 
-
 ---
 
 # 💫 About Me  
-👋 Hello! I'm **Asif Abdul Kadar Abuthagir**  
-🎓 B.Tech in Artificial Intelligence and Data Science  
+👋 Hello! I'm **Asif Abdul Kadar Abhuthagir**  
+🎓 B.Tech in **Artificial Intelligence and Data Science**  
 📍 Dr. Mahalingam College of Engineering and Technology  
-🚀 Passionate about **Data Science**, **Machine Learning**, and **AI-driven solutions**
+🚀 Passionate about **Data Science**, **Machine Learning**, and building **AI-driven solutions**  
+
+🧠 Currently sharpening my skills through a **Placement Marathon** to shape myself for top opportunities.
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-abdul-kadar-abuthagir-7abb58257/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:A.asifabdulkadar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-abdul-kadar-abuthagir/)  
+📧 Email: [A.asifabdulkadar@gmail.com](mailto:A.asifabdulkadar@gmail.com)
+
+---
+
+## 🏅 Certifications  
+✅ Java – HackerRank  
+✅ SQL – HackerRank  
+✅ SQL – Oracle Certified  
 
 ---
 
 ## 💻 Tech Stack  
-**Languages & Tools**  
+
+**Languages**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**AI/ML & Data Tools**  
+**Data Science & AI**  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
@@ -42,18 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=asifabdulkadar&theme=onedark&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=asifabdulkadar&theme=onedark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifabdulkadar&theme=onedark&hide_border=true&layout=compact)
+> 📚 *Fueled by curiosity. Focused on growth. Ready for challenges.*
 
 ---
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=asifabdulkadar&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-> 📚 *Currently focusing on building strong foundations in AI, Machine Learning, and Real-World Applications during my academic journey.*
-
-
